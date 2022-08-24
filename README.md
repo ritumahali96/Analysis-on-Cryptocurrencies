@@ -1,1 +1,1 @@
-# Bitcoin_Analysis
+# Digital_Coins_Analysis
