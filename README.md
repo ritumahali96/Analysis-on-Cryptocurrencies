@@ -1,1 +1,1 @@
-# Digital_Coins_Analysis
+# Exploratory Data Analysis on Cryptocurrencies
